@@ -1,4 +1,3 @@
-#USER_AGENT = "FlyRankInternship_Assignment/1.0 (+https://github.com/Affaq7/the-polite-scraper)"
 import os
 import time
 import requests
