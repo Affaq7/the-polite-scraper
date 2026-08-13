@@ -18,12 +18,12 @@ This project was built in the **Python lane**[cite: 1].
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
-
+   
 ```
 
 2. Install dependencies:
-```bash
-pip install requests beautifulsoup4 pydantic
+    ```bash
+    pip install requests beautifulsoup4 pydantic
 
 ```
 
